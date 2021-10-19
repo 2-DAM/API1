@@ -16,7 +16,7 @@ def insert_student():
 
 
 if __name__ == '__main__':
-    app.run(debug=True, port=5000, host='localhost')
+    app.run(debug=True, port=8068, host='localhost')
     # handler = DBHandler()
     # estudiante = Estudiante('23421','Rafa',32,'segundo')
     #
